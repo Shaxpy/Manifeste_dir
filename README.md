@@ -13,7 +13,7 @@ It can be used for beginners to visualize ML, since its all about fitting the cu
 -P5.js\
 
 # How to Use
-Just download this Library and run the Poly_UI.html file.\
-Use your mouse to make data points by dragging and the curve will try to align itself to fit itself in the best possible way!\
-Usually we try to fit the best possible line, here we can observe how line will fit itself.\
-The speed of processing can be seen by varying the learning rate\
+-Just download this Library and run the Poly_UI.html file.\
+-Use your mouse to make data points by dragging and the curve will try to align itself to fit itself in the best possible way!\
+-Usually we try to fit the best possible line, here we can observe how line will fit itself.\
+-The speed of processing can be seen by varying the learning rate.
