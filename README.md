@@ -9,7 +9,7 @@ It can be used for beginners to visualize ML, since its all about fitting the cu
 # Tech stack 
 -Basic HTML and JS\
 -Tensorflow.js\
--P5.js\
+-P5.js
 
 # How to Use
 -Just download this Library and run the Poly_UI.html file.\
