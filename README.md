@@ -5,7 +5,7 @@ Polynomial Regression is a form of linear regression in which the relationship b
 In the Poly_UI.html file, we can observe Polynomial regression on equation y= ax^4 + bx^3 + cx^2 + dx + e. Finally, Output Line is trying to fit the direction of least error.\
 Best fitting can be seen at **Learning rate=0.1** , acting as a scaling factor.\
 
-It can be used for beginners to visualize ML, since its all about fitting the curve!\ 
+It can be used for beginners to visualize ML, since its all about fitting the curve! \ 
 
 # Tech stack 
 -Basic HTML and JS\
