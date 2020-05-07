@@ -1,4 +1,8 @@
-# Live Fitting
+# Demo
+https://poly-reg.herokuapp.com/
+
+# Project-Live Fitting
+
 This is a project meant as a submission to **Manifeste**.\
 We have all worked on Regression.\
 Polynomial Regression is a form of linear regression in which the relationship between the **feature** x and **label** y is modeled as an nth degree polynomial.\
