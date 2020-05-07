@@ -16,3 +16,6 @@ It can be used for beginners to visualize ML, since its all about fitting the cu
 -Use your mouse to make data points by dragging and the curve will try to align itself to fit itself in the best possible way!\
 -Usually we try to fit the best possible line, here we can observe how line will fit itself.\
 -The speed of processing can be seen by varying the learning rate.
+
+## Note: 
+**I have attached .json and php file just for the deploying on heroku by tricking the Heroku server to believe that this is a PHP project! 
