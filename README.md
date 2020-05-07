@@ -22,5 +22,5 @@ It can be used for beginners to visualize ML, since its all about fitting the cu
 -The speed of processing can be seen by varying the learning rate.
 
 ## Note: 
-**I have attached .json and php file just for deploying on heroku by tricking the Heroku server to believe that this is a PHP project!\ 
+**I have attached .json and php file just for deploying the web app on heroku by tricking the Heroku server to believe that this is a PHP project!\ 
 Its a neat trick anyone can use for free deployment of HTML/CSS static websites!
